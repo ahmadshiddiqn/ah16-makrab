@@ -57,7 +57,7 @@
                             <option value={ETopic.AdultingTogether}>Adulting Together</option>
                             <option value={ETopic.WhatIsLove}>What is Love?</option>
                             <option value={ETopic.WhosWho}>Who's Who?</option>
-                            <option value={ETopic.IWishI}>I Wisht I...</option>
+                            <option value={ETopic.IWishI}>I Wish I...</option>
                             <option value={ETopic.WhatIf}>What if...?</option>
                         
                         </select>
